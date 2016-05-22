@@ -1,6 +1,6 @@
 # Setup
 title:        CityBook
-tagline:      Create a searchable, mobile-friendly contact list<br>from a Google Spreadsheet.
+tagline:      Pretrazivi imenik sluzbi i majstora za popravke u stambenoj zgradi u gradu Zagrebu.
 base_url:      "/citybook/"
 paginate:     1
 
