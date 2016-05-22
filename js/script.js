@@ -1,6 +1,6 @@
 
 var baseURL = 'http://codeforamerica.github.io/citybook/static/?key=';
-var spreadsheetKey = '';
+var spreadsheetKey = '1KjW98iK8taOla6f7NE90h3dP2fN4aoqXvWHm-REatRo';
 var cityBookTitle = 'Placeholder Title';
 var cityBookWidth = '100';
 var cityBookHeight = '600';
